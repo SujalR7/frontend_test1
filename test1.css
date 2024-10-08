@@ -48,7 +48,7 @@ box-shadow:0.125rem 0.125rem 0.188rem 3px gray;
     margin-top:2rem;
 }
 .footer{
-    margin-bottom:2rem;
+    margin-bottom:0rem;
     height:11rem;
     display:flex;
     justify-content:center;
