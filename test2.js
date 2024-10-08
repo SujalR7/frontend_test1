@@ -21,6 +21,6 @@ else if(number<0)
 else{
     console.log("enter a valid number");
 }
-alert("pleaese visit console for output");
+alert("please visit console for output");
 
 
